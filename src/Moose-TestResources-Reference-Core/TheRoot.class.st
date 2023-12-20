@@ -115,7 +115,7 @@ TheRoot >> accessingStubVariable [
 { #category : #accessing }
 TheRoot >> accessingTestRunner [
 
-	TestRunner
+	DrTests
 ]
 
 { #category : #accessing }
