@@ -16,12 +16,6 @@ SubRootLevelOne class >> accessSharedVariableOfSuperClassClassSide [
 	TheRootSharedVariable := 6
 ]
 
-{ #category : #'accessing superclassinstance on class side' }
-SubRootLevelOne class >> accessSharedVariableOfSuperSuperClassClassSide [
-
-	DependentsFields := 6
-]
-
 { #category : #accessingSuperclassInstVar }
 SubRootLevelOne >> accessSharedVariableOfSuperclassInstanceSide [
 
