@@ -93,18 +93,6 @@ TheRoot >> accessingNamespace [
 	Smalltalk
 ]
 
-{ #category : #'accessing shared variables' }
-TheRoot >> accessingStubSharedVariableLongName [
-	"in Squeak flat world so no difference with shortname"
-	^ DependentsFields
-]
-
-{ #category : #'accessing shared variables' }
-TheRoot >> accessingStubSharedVariableShortName [
-
-	^ DependentsFields
-]
-
 { #category : #accessing }
 TheRoot >> accessingStubVariable [
 	"this method will not be part of the model"
